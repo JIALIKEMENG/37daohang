@@ -90,6 +90,7 @@
 					}
 				]
 			},
+			{
 				"tab_name": "技术资讯",
 				"details": [
 					{
@@ -923,7 +924,7 @@
 						"is_show": true
 					},
 					{
-						"title": "Myself 動漫",
+						"title": "Myself 动漫",
 						"url": "https://myself-bbs.com",
 						"icon": "https://img.fre123.com/i/2023/12/14/6579ddcd6d2a6.jpeg",
 						"description": "动漫在线观看",
