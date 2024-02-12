@@ -91,6 +91,166 @@
 				]
 			},
 			{
+				"tab_name": "特色导航",
+				"details": [
+					{
+						"title": "牛导航",
+						"url": "https://nav.6soluo.com/",
+						"description": "实用工具导航",
+						"is_show": true
+					},
+					{
+						"title": "大哈导航",
+						"url": "https://dh.sqst.xyz/",
+						"description": "一个全能工具导航网站",
+						"is_show": true
+					},
+					{
+						"title": "工具大师导航",
+						"url": "https://gongjudashi.com/#/",
+						"description": "收集常用工具网站",
+						"is_show": true
+					},
+					{
+						"title": "工具达人",
+						"url": "https://toolsdar.cn/",
+						"description": "实用工具分享",
+						"is_show": true
+					},
+					{
+						"title": "我的书签",
+						"url": "https://it-cxy.top/",
+						"description": "内容丰富的资源收集",
+						"is_show": true
+					},
+					{
+						"title": "万人迷吧导航",
+						"url": "https://www.wanrenmi8.com/cn/index.html",
+						"description": "优质云盘资源导航站",
+						"is_show": true
+					},
+					{
+						"title": "爱达杂货铺",
+						"url": "https://adzhp.xyz/",
+						"description": "收集有用的东西",
+						"is_show": true
+					},
+					{
+						"title": "书签导航",
+						"url": "https://nav.xybin.top/",
+						"description": "内容丰富的资源收集",
+						"is_show": true
+					},
+					{
+						"title": "龙轩导航",
+						"url": "http://ilxdh.com/",
+						"description": "一个不错的导航",
+						"is_show": true
+					{
+						"title": "Tbox导航只收录优质在线工具的导航网站",
+						"url": "https://www.tboxn.com/",
+						"description": "只收录优质在线工具的导航网站",
+						"is_show": true
+					},
+					{
+						"title": "图欧学习导航",
+						"url": "https://tuostudy.upnb.top/",
+						"description": "终身学习者的导航",
+						"is_show": true
+					},
+					{
+						"title": "TG老司机导航",
+						"url": "https://tgdriver.com/",
+						"description": "TG频道导航",
+						"is_show": true
+					},
+					{
+						"title": "MFSC导航",
+						"url": "https://www.mfsc123.com/",
+						"description": "免费商用素材导航",
+						"is_show": true
+					},
+					{
+						"title": "AboutPPT导航",
+						"url": "https://www.aboutppt.com/",
+						"description": "PPT演示设计网址导航",
+						"is_show": true
+					},
+					{
+						"title": "学吧导航",
+						"url": "https://www.xue8nav.com/",
+						"description": "40万学习爱好者在用的学霸网站",
+						"is_show": true
+					}
+				]
+			},
+						{
+				"tab_name": "AI导航",
+				"details": [
+					{
+						"title": "深度AI导航",
+						"url": "https://www.deepdhai.com/",
+						"description": "收录国内外数百个AI工具",
+						"is_show": true
+					},
+					{
+						"title": "AI工具箱导航",
+						"url": "https://www.amz123.com/ai",
+						"description": "国内外AI导航网站",
+						"is_show": true
+					},
+					{
+						"title": "优设AI导航",
+						"url": "https://hao.uisdc.com/ai/",
+						"description": "专业AIGC网址导航",
+						"is_show": true
+					},
+					{
+						"title": "AI工具导航",
+						"url": "https://aitoolmall.com/zh/",
+						"description": "最全的免费AI工具",
+						"is_show": true
+					},
+					{
+						"title": "TOOLIFY导航",
+						"url": "https://www.toolify.ai/zh/",
+						"description": "最好的AI工具列表导航",
+						"is_show": true
+					},
+					{
+						"title": "老北鼻AI导航",
+						"url": "https://lbbai.com/",
+						"description": "500+AI工具导航",
+						"is_show": true
+					},
+					{
+						"title": "AI导航",
+						"url": "https://wz.aidaohang.com.cn/",
+						"description": "链接AI世界",
+						"is_show": true
+					},
+					{
+						"title": "图钉AI导航",
+						"url": "https://www.tudingai.com/",
+						"description": "收集优质AI工具",
+						"is_show": true
+					},
+					{
+						"title": "NAVIAI导航",
+						"url": "https://www.naviai.cn/",
+						"description": "一个不错的AI导航",
+						"is_show": true
+
+					{
+						"title": "酷工具AI导航",
+						"url": "https://cooltools.top/ai.html",
+						"description": "收录优质AI工具的导航网站",
+						"is_show": true
+					}
+				]
+			},
+
+			{
 				"tab_name": "技术资讯",
 				"details": [
 					{
@@ -140,28 +300,28 @@
 						"url": "https://www.infoq.cn/",
 						"icon": "https://img.fre123.com/i/2023/12/12/65773588b7b52.png",
 						"description": "技术资讯平台，深度洞察行业动态",
-						"is_show": false
+						"is_show": true
 					},
 					{
 						"title": "机器之心",
 						"url": "https://www.jiqizhixin.com/",
 						"icon": "https://img.fre123.com/i/2023/12/12/657741a779223.png",
 						"description": "人工智能科技媒体，探索智能世界",
-						"is_show": false
+						"is_show": true
 					},
 					{
 						"title": "量子位",
 						"url": "https://www.qbitai.com/category/%e8%b5%84%e8%ae%af",
 						"icon": "https://img.fre123.com/i/2023/12/12/6577368408291.png",
 						"description": "科技资讯平台，前沿科技动态解读",
-						"is_show": false
+						"is_show": true
 					},
 					{
 						"title": "湾区日报",
 						"url": "https://www.wanqu.co/",
 						"icon": "https://img.fre123.com/i/2023/12/12/65773eb7cded4.png",
 						"description": "科技创新资讯，关注湾区科技动态",
-						"is_show": false
+						"is_show": true
 					}
 				]
 			},
@@ -236,325 +396,696 @@
 						"url": "https://pythoncat.top/",
 						"icon": "https://img.fre123.com/i/2023/12/05/656f23ae79f38.png",
 						"description": "Python技术周刊",
-						"is_show": false
+						"is_show": true
 					}
 				]
 			}
 		]
-	},
+	},	
 	{
 		"group_name": "教育学习",
 		"style": 1,
 		"style_des": "标准风格",
 		"tab_list": [
 			{
-				"tab_name": "学习资源",
+				"tab_name": "在线应用",
 				"upper_right_corner": {},
 				"details": [
 					{
-						"title": "BTNULL 无名小站",
-						"url": "https://www.btnull.org",
-						"icon": "https://img.fre123.com/i/2023/11/25/6561ae014e2de.png",
-						"description": "简单注册下，即可在线观看&下载影视资源，总体体验还是挺良心的",
+						"title": "在线万能转",
+						"url": "https://www.aconvert.com/cn/",
+						"description": "在线转换文档、图像、视频、音频文件",
 						"is_show": true
 					},
 					{
-						"title": "JoJo 影视",
-						"url": "https://jiohub.top",
-						"icon": "https://img.fre123.com/i/2023/11/25/6561af1988649.png",
-						"description": "努力打造为最好的海外热门影视剧在线观看站点",
+						"title": "万能文件格式转换器",
+						"url": "https://img.logosc.cn/convertall",
+						"description": "批量转换各种电脑文件格式",
 						"is_show": true
 					},
 					{
-						"title": "素白白影视",
-						"url": "https://subaibai.vip/",
-						"icon": "https://img.fre123.com/i/2024/01/06/65982a748d7cf.png",
-						"description": "提供最新最全的电视剧电影在线观看",
+						"title": "FILEZIGZAG",
+						"url": "https://www.filezigzag.com/",
+						"description": "免费在线转换文档、图像、电子书、音视频",
 						"is_show": true
 					},
 					{
-						"title": "注视影视",
-						"url": "https://gaze.run/",
-						"icon": "https://img.fre123.com/i/2023/11/25/6561ae9a7b3d3.png",
-						"description": "在线影视搜索观看网站，颜值鲜艳！",
+						"title": "凸凹凸转换",
+						"url": "https://www.alltoall.net/",
+						"description": "国内最全类型的在线文件免费转换平台",
 						"is_show": true
 					},
 					{
-						"title": "哔嘀影视",
-						"url": "https://www.bdys.me/",
-						"icon": "https://img.fre123.com/i/2023/11/25/6561b1775447b.png",
-						"description": "最新电影电视剧免费观看下载！",
+						"title": "PDFCandy",
+						"url": "https://pdfcandy.com/cn/",
+						"description": "提供 47 种在线工具来处理 PDF",
 						"is_show": true
 					},
 					{
-						"title": "低端影视",
-						"url": "https://ddys.pro/",
-						"icon": "https://img.fre123.com/i/2023/11/25/6561aeddd0eb6.png",
-						"description": "超清在线视频站",
+						"title": "iLovePDF",
+						"url": "https://www.ilovepdf.com/zh-cn",
+						"description": "丰富的PDF处理工具+OCR",
 						"is_show": true
 					},
 					{
-						"title": "厂长资源",
-						"url": "https://www.czzy.site/",
-						"icon": "https://img.fre123.com/i/2024/01/06/659829822ee33.jpg",
-						"description": "高清资源在线观看",
+						"title": "轻闪PDF",
+						"url": "https://lightpdf.cn/",
+						"description": "提供24个免费的PDF在线工具+OCR",
 						"is_show": true
 					},
 					{
-						"title": "大米星球",
-						"url": "https://damiq.cc/",
-						"icon": "https://img.fre123.com/i/2023/12/14/657b1c91ce756.png",
-						"description": "免费高清电影大全",
+						"title": "易飞文字识别",
+						"url": "https://catocr.com/",
+						"description": "免费在线图片/PDF转文字",
 						"is_show": true
 					},
 					{
-						"title": "Free OK",
-						"url": "https://www.freeok.vip/",
-						"icon": "https://img.fre123.com/i/2024/01/06/6598318075d36.jpg",
-						"description": "提供最新动漫番剧、电影、电视剧、综艺蓝光资源免费在线观看服务，不卡无广告，每天第一时间更新！",
+						"title": "白描网页版",
+						"url": "https://web.baimiaoapp.com/",
+						"description": "在线图片/表格/公式/PDF识别转换",
 						"is_show": true
 					},
 					{
-						"title": "555电影",
-						"url": "https://www.555u.club/",
-						"icon": "https://img.fre123.com/i/2023/12/14/657b21e08c6f0.png",
-						"description": "每天更新热火欧美日韩剧",
+						"title": "TextIn",
+						"url": "https://tools.textin.com/table",
+						"description": "文字及表格识别转换",
 						"is_show": true
 					},
 					{
-						"title": "好看123",
-						"url": "https://haokan123.icu/",
-						"icon": "https://img.fre123.com/i/2023/12/13/6579cc2dab874.png",
-						"description": "VIP电影最新电视剧综艺在线免费观看",
+						"title": "表格识别图片转Excel",
+						"url": "https://zhiyakeji.com/freg/",
+						"description": "表格图片识别转换为Excel",
 						"is_show": true
 					},
 					{
-						"title": "搜片",
-						"url": "https://soupian.pro/",
-						"icon": "https://img.fre123.com/i/2023/11/25/6561aebd85f0c.png",
-						"description": "搜你想看的影片，每天搜集最新电影、电视剧、在线观看网址、蓝光高清正版免费看！",
+						"title": "Effidit在线校对",
+						"url": "https://effidit.qq.com/demo",
+						"description": "提供智能纠错、文本补全、文本改写、文本扩写、词语推荐、句子推荐与生成等功能",
 						"is_show": true
 					},
 					{
-						"title": "影搜",
-						"url": "https://影搜.com/",
-						"icon": "https://img.fre123.com/i/2024/01/05/6597be6706aee.png",
-						"description": "全网海量影片数据",
+						"title": "爱校对",
+						"url": "https://www.ijiaodui.com/workbench",
+						"description": "AI写作及文字/文档/图片/PDF校对",
 						"is_show": true
 					},
 					{
-						"title": "影视搜索引擎",
-						"url": "https://ys.urlsdh.com/so/",
-						"icon": "https://img.fre123.com/i/2024/01/15/65a421c243f94.ico",
-						"description": "影视搜索引擎",
+						"title": "在线字体转换器",
+						"url": "http://www.akuziti.com/",
+						"description": "在线生成各种艺术字体",
 						"is_show": true
 					},
 					{
-						"title": "腐剧TV",
-						"url": "https://fujumtv.com/",
-						"icon": "https://img.fre123.com/i/2024/01/06/65982b424d966.png",
-						"description": "最新腐剧在线观看",
-						"is_show": false
-					}
-				]
-			},
-			{
-				"tab_name": "电影世界",
-				"upper_right_corner": {},
-				"details": [
-					{
-						"title": "电影狗",
-						"url": "https://www.dianyinggou.com/",
-						"icon": "https://img.fre123.com/i/2023/12/14/6579e90936169.png",
-						"description": "专业电影搜索引擎",
-						"is_show": true
-					},
-					{
-						"title": "音范丝",
-						"url": "https://www.yinfans.me/",
-						"icon": "https://img.fre123.com/i/2023/11/25/6561b0a161eeb.png",
-						"description": "精选 4K 蓝光原盘下载",
-						"is_show": true
-					},
-					{
-						"title": "磁力熊",
-						"url": "https://www.cilixiong.cc/",
-						"icon": "https://img.fre123.com/i/2023/11/25/6561aef0bb22e.png",
-						"description": "磁力电影高清电影下载，豆瓣 Top250 高分高清电影磁力下载",
-						"is_show": true
-					},
-					{
-						"title": "此刻电影日历",
-						"url": "https://www.cikeee.cc/",
-						"icon": "https://img.fre123.com/i/2023/11/25/6561af2dbbb1c.png",
-						"description": "每天一部电影，电影爱好者的心灵港湾，在这里，发现电影，享受电影，分享电影",
+						"title": "书法迷",
+						"url": "http://www.shufami.com/",
+						"description": "在线生成毛笔字",
 						"is_show": true
 					}
 				]
 			},
 			{
-				"tab_name": "美日韩剧",
+				"tab_name": "在线资源",
 				"upper_right_corner": {},
 				"details": [
 					{
-						"title": "HDmoli",
-						"url": "https://molicp.com/",
-						"icon": "https://img.fre123.com/i/2023/11/25/6561ae6e55df8.png",
-						"description": "HDMOLI 提供免费、高品质、同时支持电脑和移动设备的影视剧在线观看网站",
+						"title": "时代天华七彩课堂",
+						"url": "https://www.timebook.cc/new/index.html",
+						"description": "多种教与学配套资源",
 						"is_show": true
 					},
 					{
-						"title": "LIBVIO",
-						"url": "https://www.libvio.me/",
-						"icon": "https://img.fre123.com/i/2024/01/06/659829e49995c.png",
-						"description": "海外影视资源为主的老牌在线影视资源网站",
+						"title": "优翼100",
+						"url": "https://www.youyi100.com/",
+						"description": "多种教与学配套资源",
 						"is_show": true
 					},
 					{
-						"title": "JoJo 影视",
-						"url": "https://jiohub.top/",
-						"icon": "https://img.fre123.com/i/2023/11/25/6561af1988649.png",
-						"description": "努力打造为最好的海外热门影视剧在线观看站点",
+						"title": "贝壳网",
+						"url": "https://www.bakclass.com/",
+						"description": "教师备课平台，多种备课资源",
 						"is_show": true
 					},
 					{
-						"title": "低端影视",
-						"url": "https://ddys.pro/",
-						"icon": "https://img.fre123.com/i/2023/11/25/6561aeddd0eb6.png",
-						"description": "超清在线视频站",
+						"title": "贝壳MOOC",
+						"url": "https://mooc.bakclass.com/show/kechengList",
+						"description": "多种教学视频资源",
 						"is_show": true
 					},
 					{
-						"title": "NO 视频",
-						"url": "https://www.novipnoad.net/",
-						"icon": "https://img.fre123.com/i/2024/01/06/65983049921a2.png",
-						"description": "主打海外影视剧资源，不负追剧好时光。",
+						"title": "冀教版英语朗读",
+						"url": "http://xiai123.com/jjbyy3q.html",
+						"description": "三年级起点冀教版英语在线朗读",
 						"is_show": true
 					},
 					{
-						"title": "在线之家",
-						"url": "https://www.zxzjhd.com/",
+						"title": "洋葱学院",
+						"url": "https://school.yangcongxueyuan.com/#/login",
+						"description": "洋葱教学视频",
+						"is_show": true
+					},
+					{
+						"title": "中少绘本",
+						"url": "http://111.205.102.251:8090/",
+						"description": "中国少年儿童出版社出版的绘本资源",
+						"is_show": true
+					},
+					{
+						"title": "中国大学MOOC",
+						"url": "https://www.icourse163.org/",
+						"description": "多种学习资源",
+						"is_show": true
+					},
+					{
+						"title": "大学资源网",
+						"url": "https://www.dxzy163.com/",
+						"description": "多种学习资源",
+						"is_show": true
+					},
+					{
+						"title": "终身教育平台",
+						"url": "https://le.ouchn.cn/home",
+						"description": "多种教学学习资源",
+						"is_show": true
+					}
+
+				]
+			},
+			{
+				"tab_name": "在线工具",
+				"upper_right_corner": {},
+				"details": [
+					{
+						"title": "在线TXT工具",
+						"url": "http://www.txttool.com/",
+						"description": "多种txt文本在线处理工具",
+						"is_show": true
+					},
+					{
+						"title": "在线LaTeX公式编辑器",
+						"url": "https://latexlive.com/##",
+						"description": "在线LaTeX公式编辑器",
+						"is_show": true
+					},
+					{
+						"title": "在线白板",
+						"url": "https://toolwa.com/whiteboard/",
+						"description": "工具蛙的简单在线白板",
+						"is_show": true
+					},
+					{
+						"title": "在线绘图",
+						"url": "https://okso.app/",
+						"description": "带简单绘图工具的在线白板",
+						"is_show": true
+					},
+					{
+						"title": "在线绘图",
+						"url": "https://www.autodraw.com/",
+						"description": "在线绘图工具",
+						"is_show": true
+					},
+					{
+						"title": "简明字帖",
+						"url": "https://www.babawar.com/index.html",
+						"description": "在线生成各种学生田字格字帖",
+						"is_show": true
+					},
+					{
+						"title": "淡墨水字帖生成器",
+						"url": "https://danmoshui.com/",
+						"description": "在线生成各种学生用字帖",
+						"is_show": true
+					},
+					{
+						"title": "看拼音写词语生成器",
+						"url": "https://zidian.odict.net/zh-tw/xiezi/",
+						"description": "在线生成带空白格子的汉语拼音",
+						"is_show": true
+					},
+					{
+						"title": "中文加拼音注音",
+						"url": "https://toneoz.com/ime/?fnt=1",
+						"description": "给文本标注汉语拼音，带纠错功能",
+						"is_show": true
+					},
+					{
+						"title": "图形方格纸",
+						"url": "https://www.mygraphpaper.com/",
 						"icon": "https://img.fre123.com/i/2024/01/06/659830c0e152c.png",
-						"description": "在线观看最新美剧|最新韩剧|天天美剧|人人美剧",
+						"description": "在线制作自己的方格笔记本",
 						"is_show": true
 					}
 				]
 			},
 			{
-				"tab_name": "影视下载",
+				"tab_name": "培训学习",
 				"upper_right_corner": {},
 				"details": [
 					{
-						"title": "海盗湾",
-						"url": "https://www.pirateproxy-bay.com/",
-						"icon": "https://img.fre123.com/i/2024/01/05/6597c20198e3b.png",
-						"description": "全世界最大的磁力搜索网站",
+						"title": "教师培训管理平台",
+						"url": "http://jspx.sneducloud.com/index.jsp",
+						"description": "陕西省教师培训管理平台",
 						"is_show": false
 					},
 					{
-						"title": "音范丝",
-						"url": "https://www.yinfans.me/",
-						"icon": "https://img.fre123.com/i/2023/11/25/6561b0a161eeb.png",
-						"description": "精选 4K 蓝光原盘下载",
+						"title": "中国教师研修网",
+						"url": "http://www.yanxiu.com/login.html",
+						"description": "中国教师研修网",
 						"is_show": true
 					},
 					{
-						"title": "不太灵影视",
-						"url": "https://www.2bt0.com/",
-						"icon": "https://img.fre123.com/i/2024/01/06/65983354c2ad9.png",
-						"description": "海外电影电视剧下载",
+						"title": "国家中小学智慧教育平台",
+						"url": "https://basic.smartedu.cn/",
+						"description": "国家中小学智慧教育平台",
 						"is_show": true
 					},
 					{
-						"title": "磁力熊",
-						"url": "https://www.cilixiong.cc/",
-						"icon": "https://img.fre123.com/i/2023/11/25/6561aef0bb22e.png",
-						"description": "磁力电影高清电影下载，豆瓣 Top250 高分高清电影磁力下载",
+						"title": "中国教师资格证网",
+						"url": "https://sso1.jszg.edu.cn",
+						"description": "中国教师资格证网",
 						"is_show": true
 					},
 					{
-						"title": "电影天堂",
-						"url": "https://www.dy2018.com/",
-						"icon": "https://img.fre123.com/i/2023/11/25/6561b0e16bb9e.png",
-						"description": "分享最新电影，高清电影、综艺、动漫、电视剧等下载",
+						"title": "BJ教育云平台",
+						"url": "http://ypt.snbjeduyun.com",
+						"description": "BJ教育云平台",
 						"is_show": true
 					},
 					{
-						"title": "飘花资源网",
-						"url": "https://www.piaohua.com/",
-						"icon": "https://img.fre123.com/i/2023/11/25/6561b1600d9d9.jpg",
-						"description": "每天搜集最新迅雷免费电影下载",
+						"title": "学习公社",
+						"url": "https://study.enaea.edu.cn/",
+						"description": "学习公社",
 						"is_show": true
 					},
 					{
-						"title": "美剧天堂",
-						"url": "https://www.meijutt.tw/",
-						"icon": "https://img.fre123.com/i/2023/11/25/6561b1683e2ca.png",
-						"description": "海量好看的美剧在线观看、最新美剧下载！",
+						"title": "专业技术人员继续教育网络学习平台",
+						"url": "http://jxjy01.xidian.edu.cn/newLogin.jsp",
+						"description": "陕西省专业技术人员继续教育网络学习平台",
+						"is_show": true
+					}
+				]
+			},
+			{
+				"tab_name": "在线工具集",
+				"upper_right_corner": {},
+				"details": [					
+					{
+						"title": "腾讯帮小忙工具",
+						"url": "https://tool.browser.qq.com/",
+						"description": "多种丰富实用的在线工具集合",
 						"is_show": true
 					},
 					{
-						"title": "蚂蚁 4K",
-						"url": "https://www.mayi4k.com/",
-						"icon": "https://img.fre123.com/i/2023/11/25/6561b1a7eb11e.png",
-						"description": "提供4K高清电影资源下载及最新电影下载服务",
+						"title": "UUU在线工具",
+						"url": "https://uutool.cn/",
+						"description": "多种实用在线工具",
 						"is_show": true
 					},
 					{
-						"title": "4K 影视论坛",
-						"url": "https://www.4khdr.cn/",
-						"icon": "https://img.fre123.com/i/2023/11/25/6561b1ba0622b.png",
-						"description": "4K 电影美剧下载 ，HDR 杜比视界资源",
+						"title": "爱资料工具",
+						"url": "https://www.toolnb.com/",
+						"description": "多种实用在线工具",
 						"is_show": true
 					},
 					{
-						"title": "迷客电影",
-						"url": "https://www.mini4k.net/",
-						"icon": "https://img.fre123.com/i/2023/12/16/657d3fd6549b7.png",
-						"description": "高清2160P 4K电影下载网站",
+						"title": "即时工具",
+						"url": "https://www.67tool.com/",
+						"description": "多种实用在线工具",
 						"is_show": true
 					},
 					{
-						"title": "秋爸日字",
-						"url": "https://qq88.info/",
-						"icon": "https://img.fre123.com/i/2023/11/25/6561b18462068.png",
-						"description": "日剧下载网站",
+						"title": "MikuTools",
+						"url": "https://tools.miku.ac/",
+						"description": "多种实用在线工具",
 						"is_show": true
 					},
 					{
-						"title": "日剧跑",
-						"url": "https://www.rijupao.com/",
-						"icon": "https://img.fre123.com/i/2023/12/14/6579d8bfd3476.jpg",
-						"description": "热爱日剧，分享日剧。还有日影、动漫分享，百度网盘高清下载，迅雷高速下载。",
+						"title": "偷懒工具",
+						"url": "https://toolight.cn/",
+						"description": "多种实用在线工具",
 						"is_show": true
 					},
 					{
-						"title": "韩饭网",
-						"url": "https://www.hanfan.cc/",
-						"icon": "https://img.fre123.com/i/2023/11/25/6561b19c18889.png",
-						"description": "提供韩国电视剧、韩国电影、韩国综艺、节目表、音乐演出和明星时尚",
+						"title": "记灵在线工具",
+						"url": "https://remeins.com/",
+						"description": "多种实用在线工具",
 						"is_show": true
 					},
 					{
-						"title": "布谷TV",
-						"url": "https://www.bugutv.org/",
-						"icon": "https://img.fre123.com/i/2023/11/25/6561b1c807121.png",
-						"description": "4K 电影爱好者基地",
+						"title": "果汁工具",
+						"url": "http://guozhivip.com/tool/",
+						"description": "多种实用在线工具",
 						"is_show": true
 					},
 					{
-						"title": "YYeTs",
-						"url": "https://yyets.click/search",
-						"icon": "https://img.fre123.com/i/2023/12/13/6579ced83bdae.png",
-						"description": "包含人人影视全部资源以及众多网友的网盘分享",
+						"title": "123工具",
+						"url": "https://www.gjw123.com/",
+						"description": "多种实用在线工具",
+						"is_show": true
+					},
+					{
+						"title": "高手工具",
+						"url": "https://c.p2hp.com/",
+						"description": "多种实用在线工具",
+						"is_show": true
+					},
+					{
+						"title": "一个工具箱",
+						"url": "http://www.atoolbox.net/",
+						"description": "多种实用在线工具",
+						"is_show": true
+					},
+					{
+						"title": "最强工具人工具",
+						"url": "https://www.toolfk.com/",
+						"description": "多种实用在线工具",
+						"is_show": true
+					},
+					{
+						"title": "在线工具",
+						"url": "https://tool.lu/",
+						"description": "多种实用在线工具",
+						"is_show": true
+					},
+					{
+						"title": "ME2在线工具",
+						"url": "http://www.metools.info/",
+						"description": "多种实用在线工具",
+						"is_show": true
+					},
+					{
+						"title": "在线小工具",
+						"url": "https://zxxgj.net/#yule",
+						"description": "多种实用在线工具",
 						"is_show": true
 					}
 				]
 			}
 		]
 	},
-	
-	
+	{
+		"group_name": "常用平台",
+		"style": 1,
+		"style_des": "标准风格",
+		"tab_list": [
+			{
+				"tab_name": "传输分享",
+				"upper_right_corner": {},
+				"details": [
+					{
+						"title": "快速创建收件夹",
+						"url": "http://xzc.cn/",
+						"description": "向多人收取文件保存在网盘中",
+						"is_show": true
+					},
+					{
+						"title": "奶牛快传",
+						"url": "https://cowtransfer.com/",
+						"description": "免费用户5G空间30天存期月流量50G快速传输",
+						"is_show": true
+					},
+					{
+						"title": "MUSE在线传输",
+						"url": "https://musetransfer.com/",
+						"description": "单文件不超10G的收集和分享工具，有分享流量限制",
+						"is_show": true
+					},
+					{
+						"title": "虫洞传输",
+						"url": "https://wormhole.app/",
+						"description": "单文件不超10G的端对端加密的在线大文件传输",
+						"is_show": true
+					},
+					{
+						"title": "钛盘",
+						"url": "https://www.ttttt.link/",
+						"description": "无限空间不限速度的免费传输工具",
+						"is_show": true
+					},
+					{
+						"title": "文叔叔",
+						"url": "https://www.wenshushu.cn/",
+						"description": "不限速的5G容量传输盘",
+						"is_show": true
+					},
+					{
+						"title": "Send Big Files ",
+						"url": "https://send.tresorit.com/",
+						"icon": "https://img.fre123.com/i/2023/12/14/6579d63c89c74.png",
+						"description": "单文件5G的德国点对点传输",
+						"is_show": true
+					},
+					{
+						"title": "青蛙快传",
+						"url": "https://cp.ciding.cc/",
+						"description": "免费的在线文件/文本传输分享工具",
+						"is_show": true
+					},
+					{
+						"title": "文件咖啡",
+						"url": "https://file.coffee/",
+						"description": "一种免费文件托管服务",
+						"is_show": true
+					},
+					{
+						"title": "rDrop传输",
+						"url": "https://rdrop.link/",
+						"description": "无大小限制的P2P文件传输服务",
+						"is_show": true
+					},
+					{
+						"title": "笔记词",
+						"url": "https://bijici.com/",
+						"description": "支持传文件设密码的云笔记网站",
+						"is_show": true
+					},
+					{
+						"title": "口令",
+						"url": "https://ko0.com/",
+						"description": "24小时存期的文本/文件在线分享",
+						"is_show": true
+					},
+					{
+						"title": "私人笔记",
+						"url": "https://privnote.com/",
+						"description": "发送阅读后会自毁的便条",
+						"is_show": true
+					},
+					{
+						"title": "阅后即焚",
+						"url": "https://b.appinn.net/",
+						"description": "文本加密分享，阅后即焚",
+						"is_show": true
+					},
+					{
+						"title": "私密分享",
+						"url": "https://pasteme.cn/#/",
+						"description": "可加密和自行销毁的私密文档分享服务",
+						"is_show": true
+					}
+				]
+			},
+			{
+				"tab_name": "网络应用",
+				"upper_right_corner": {},
+				"details": [
+					{
+						"title": "草料二维码",
+						"url": "https://cli.im/",
+						"description": "简单实用的二维码系统搭建平台",
+						"is_show": true
+					},
+					{
+						"title": "相似网站",
+						"url": "https://www.similarsites.com/",
+						"description": "搜索类似网站",
+						"is_show": true
+					},
+					{
+						"title": "繁化姬",
+						"url": "https://zhconvert.org/",
+						"description": "繁简字转换",
+						"is_show": true
+					},
+					{
+						"title": "Web2PDF",
+						"url": "https://webtopdf.com/",
+						"description": "Webpage转存为PDF",
+						"is_show": true
+					},
+					{
+						"title": "在线文件加密/解密",
+						"url": "https://hat.sh/",
+						"description": "简洁、快速、安全的用户端文件加密",
+						"is_show": true
+					},
+					{
+						"title": "速写版",
+						"url": "https://www.suxieban.com/#",
+						"description": "在线速写",
+						"is_show": true
+					},
+					{
+						"title": "网盘直链获取工具",
+						"url": "https://link.gimhoy.com/",
+						"description": "输入网盘分享链接获取直链",
+						"is_show": true
+					},
+					{
+						"title": "智商测试",
+						"url": "https://iqeq.com.cn/",
+						"description": "一个IQ测验网站",
+						"is_show": true
+					},
+					{
+						"title": "AdGuard匿名邮箱",
+						"url": "https://adguard.com/zh_tw/adguard-temp-mail/overview.html",
+						"description": "免费一次性电子信箱生成器",
+						"is_show": true
+					},
+					{
+						"title": "网页永存",
+						"url": "https://www.archiveforever.xyz/",
+						"description": "永久存档任何网页或图像",
+						"is_show": true
+					}
+				]
+			},
+			{
+				"tab_name": "图片应用",
+				"upper_right_corner": {},
+				"details": [
+					{
+						"title": "改图神器",
+						"url": "https://img.logosc.cn/",
+						"description": "修改图片颜色尺寸；智能抠图去水印；在线图片编辑",
+						"is_show": true
+					},
+					{
+						"title": "iLoveIMG",
+						"url": "https://www.iloveimg.com/zh-cn",
+						"description": "在线图片编辑器",
+						"is_show": true
+					},
+					{
+						"title": "趣作图抠图",
+						"url": "https://www.quzuotu.com/mb_home",
+						"description": "发丝级AI自动抠图!",
+						"is_show": true
+					},
+					{
+						"title": "清图",
+						"url": "https://qingtu.cn/",
+						"description": "多种图片在线处理工具",
+						"is_show": true
+					},
+					{
+						"title": "动漫图片放大",
+						"url": "https://waifu2x.udp.jp/",
+						"description": "使用卷积神经网络对动漫风格的图片进行放大操作",
+						"is_show": true
+					},
+					{
+						"title": "佐糖",
+						"url": "https://picwish.cn/",
+						"description": "多款易用图片在线编辑工具",
+						"is_show": true
+					},
+					{
+						"title": "图片清理器",
+						"url": "https://objectremover.com/image-cleaner",
+						"description": "删除不需要的对象来清理图像和图片",
+						"is_show": true
+					},
+					{
+						"title": "Snapedit",
+						"url": "https://snapedit.app/",
+						"description": "基于人工智能的在线照片编辑器",
+						"is_show": true
+					},
+					{
+						"title": "黑白照上色",
+						"url": "https://palette.fm/",
+						"description": "世界上最好的人工智能为黑白照片着色",
+						"is_show": true
+					},
+					{
+						"title": "图片转素描",
+						"url": "https://imagetosketch.com",
+						"description": "AI技术将照片转换为令人惊叹的漫画和卡通",
+						"is_show": true
+					}
+				]
+			},
+			{
+				"tab_name": "图床视频床",
+				"upper_right_corner": {},
+				"details": [
+					{
+						"title": "简单图床",
+						"url": "https://png.cm/",
+						"description": "一款开源图床, 支持多文件上传无数据库，10M+30张",
+						"is_show": true
+					},
+					{
+						"title": "ImgBB图床",
+						"url": "https://imgbb.com/",
+						"description": "免费的图像托管服务，最大32M",
+						"is_show": true
+					},
+					{
+						"title": "TG图床",
+						"url": "https://telegraph-image.pages.dev/",
+						"description": "不解释",
+						"is_show": true
+					},
+					{
+						"title": "TG图床",
+						"url": "https://im.gurl.eu.org/",
+						"description": "另一个TG图床",
+						"is_show": true
+					},
+					{
+						"title": "厘图片图床",
+						"url": "https://tupian.li/",
+						"description": "自由开放的免费图床",
+						"is_show": true
+					},
+					{
+						"title": "FreeImage图床",
+						"url": "https://freeimage.host/",
+						"description": "免费图床，最大64M",
+						"is_show": true
+					},
+					{
+						"title": "MyAlbum相册",
+						"url": "https://myalbum.com/",
+						"description": "免费创建在线相册，私下分享照片和视频",
+						"is_show": true
+					},
+					{
+						"title": "Streamtape视频托管",
+						"url": "https://streamtape.com/",
+						"description": "视频托管和分享网站",
+						"is_show": true
+					},
+					{
+						"title": "Thumbsnap视频床",
+						"url": "https://thumbsnap.com/",
+						"description": "使用相册创建和共享多个照片/视频",
+						"is_show": true
+					},
+					{
+						"title": "瑞典BayIMG图床",
+						"url": "https://bayimg.com/",
+						"description": "图像托管",
+						"is_show": true
+					}
+				]
+			}
+		]
+	},
+
 	{
 		"group_name": "影视资源",
 		"style": 1,
@@ -867,235 +1398,6 @@
 		]
 	},
 	{
-		"group_name": "动漫番剧",
-		"style": 1,
-		"style_des": "标准风格",
-		"tab_list": [
-			{
-				"tab_name": "番剧资源",
-				"upper_right_corner": {},
-				"details": [
-					{
-						"title": "Bangumi 番组计划",
-						"url": "https://bgm.tv/",
-						"icon": "https://img.fre123.com/i/2023/12/13/657999ff600a4.png",
-						"description": "专注于动漫、音乐、游戏领域，帮助你分享、发现与结识同好的ACG网络",
-						"is_show": true
-					},
-					{
-						"title": "BiliBili番剧",
-						"url": "https://www.bilibili.com/anime",
-						"icon": "https://img.fre123.com/i/2023/11/25/6561b84c2d200.png",
-						"description": "bilibili是国内知名的视频弹幕网站，这里有最及时的动漫新番，最棒的ACG氛围，最有创意的Up主。",
-						"is_show": true
-					},
-					{
-						"title": "动漫线上看",
-						"url": "https://anime1.me/",
-						"icon": "https://img.fre123.com/i/2023/12/13/6579a789c981f.webp",
-						"description": "最新番剧追更，在线观看",
-						"is_show": true
-					},
-					{
-						"title": "AGE 动漫",
-						"url": "http://age.tv",
-						"icon": "https://img.fre123.com/i/2023/11/25/6561b8413511a.png",
-						"description": "专业的在线动漫网站，动漫免费在线观看，高品质画质，实时更新，追番利器!",
-						"is_show": true
-					},
-					{
-						"title": "樱花动漫",
-						"url": "https://www.iyhdmm.com",
-						"icon": "https://img.fre123.com/i/2023/11/25/6561b85abc481.png",
-						"description": "专注动漫的门户网站",
-						"is_show": true
-					},
-					{
-						"title": "怡萱动漫",
-						"url": "http://yxdm.tv",
-						"icon": "https://img.fre123.com/i/2023/11/25/6561b8916d0e7.jpg",
-						"description": "动漫番剧观看下载网站",
-						"is_show": true
-					},
-					{
-						"title": "bimi 动漫",
-						"url": "https://www.bimiacg.icu/",
-						"icon": "https://img.fre123.com/i/2023/12/14/6579d63c89c74.png",
-						"description": "哔咪哔咪为您将动漫番剧一网打尽",
-						"is_show": true
-					},
-					{
-						"title": "Myself 动漫",
-						"url": "https://myself-bbs.com",
-						"icon": "https://img.fre123.com/i/2023/12/14/6579ddcd6d2a6.jpeg",
-						"description": "动漫在线观看",
-						"is_show": true
-					},
-					{
-						"title": "妮可动漫",
-						"url": "http://www.nicotv.wtf",
-						"icon": "https://img.fre123.com/i/2023/12/13/6579a29596e6f.png",
-						"description": "免费在线动漫观看，全集高清番剧",
-						"is_show": true
-					},
-					{
-						"title": "异世界动漫",
-						"url": "http://kudm.net",
-						"icon": "https://img.fre123.com/i/2023/11/25/6561b8a56cb6e.png",
-						"description": "动漫网站，新番国漫都有，打开会自动跳转到最新域名",
-						"is_show": true
-					},
-					{
-						"title": "AnFuns 动漫",
-						"url": "https://www.anfuns.cc",
-						"icon": "https://img.fre123.com/i/2023/11/25/6561b8afa7d2a.png",
-						"description": "在线动漫资源门户",
-						"is_show": false
-					},
-					{
-						"title": "NT 动漫",
-						"url": "https://www.ntdm.tv/",
-						"icon": "https://img.fre123.com/i/2024/01/05/6598237865cd8.png",
-						"description": "专注的动漫的网站，立志为广大动漫迷提供一个在线看动漫的好平台。",
-						"is_show": true
-					},
-					{
-						"title": "E站",
-						"url": "https://www.ezdmw.site/",
-						"icon": "https://img.fre123.com/i/2023/12/13/6579a72d755f8.png",
-						"description": "E站弹幕网是国内专业的二次元（ACG）社区，在线动漫&下载",
-						"is_show": true
-					},
-					{
-						"title": "风车动漫",
-						"url": "https://dm530.org/",
-						"icon": "https://img.fre123.com/i/2023/12/13/6579a6860c978.ico",
-						"description": "上万集高清晰画质的在线动漫，观看完全免费、无须注册",
-						"is_show": true
-					},
-					{
-						"title": "girigiri爱动漫",
-						"url": "https://anime.girigirilove.com/",
-						"icon": "https://img.fre123.com/i/2023/12/13/6579d1f8bb534.png",
-						"description": "在线追番播放网站",
-						"is_show": true
-					},
-					{
-						"title": "动漫巴士",
-						"url": "http://dm84.site/",
-						"icon": "https://img.fre123.com/i/2023/12/14/6579dbf7843df.png",
-						"description": "最新好看的动漫免费在线观看",
-						"is_show": true
-					},
-					{
-						"title": "动漫岛",
-						"url": "http://www.dmd8.com/",
-						"icon": "https://img.fre123.com/i/2023/12/18/657fe5c5cca6e.png",
-						"description": "动漫岛为大家提供新番连载大量完结日漫热门国漫剧场动漫等动漫的在线观看",
-						"is_show": true
-					},
-					{
-						"title": "稀饭动漫",
-						"url": "https://dick.xfani.com/",
-						"icon": "https://img.fre123.com/i/2023/12/18/657fe8995019f.png",
-						"description": "免费高清动漫分享",
-						"is_show": true
-					},
-					{
-						"title": "去看吧",
-						"url": "https://qkan8.com/",
-						"icon": "https://img.fre123.com/i/2023/12/14/6579dc905f000.png",
-						"description": "提供最新的日本动漫在线观看",
-						"is_show": true
-					},
-					{
-						"title": "橘子动漫",
-						"url": "https://www.mgnacg.com/",
-						"icon": "https://img.fre123.com/i/2023/12/13/6579d039032ea.jpg",
-						"description": "清晰画质动漫电影在线观看",
-						"is_show": false
-					},
-					{
-						"title": "Nicohub",
-						"url": "https://nicohub.cc/",
-						"icon": "https://img.fre123.com/i/2024/01/06/65982cbc83377.png",
-						"description": "简洁的在线番剧&漫画&轻小说一体化的网站",
-						"is_show": true
-					},
-					{
-						"title": "YuC's AnimeList",
-						"url": "https://yuc.wiki/",
-						"icon": "https://img.fre123.com/i/2023/12/13/65799b5609a6b.png",
-						"description": "新番信息资讯",
-						"is_show": true
-					}
-				]
-			},
-			{
-				"tab_name": "番剧下载",
-				"upper_right_corner": {},
-				"details": [
-					{
-						"title": "动漫花园",
-						"url": "https://dmhy.org",
-						"icon": "https://img.fre123.com/i/2023/11/25/6561b8ca8d9db.png",
-						"description": "动漫花园是一个动漫爱好者交流的平台，提供最及时全面的动漫资源",
-						"is_show": true
-					},
-					{
-						"title": "蜜柑计划",
-						"url": "https://mikanime.tv/",
-						"icon": "https://img.fre123.com/i/2023/12/13/65799a4e99649.ico",
-						"description": "新一代的动漫下载站",
-						"is_show": true
-					},
-					{
-						"title": "爱恋动漫BT下载",
-						"url": "https://kisssub.org/",
-						"icon": "https://img.fre123.com/i/2023/12/13/6579a0dbd7368.ico",
-						"description": "爱恋BT分享站，动画/漫画/游戏/动漫音乐/片源",
-						"is_show": true
-					},
-					{
-						"title": "末日动漫资源库",
-						"url": "https://share.acgnx.se/",
-						"icon": "https://img.fre123.com/i/2023/12/13/6579d4b28abac.ico",
-						"description": "ACG资源检索下载",
-						"is_show": true
-					},
-					{
-						"title": "漫猫动漫",
-						"url": "https://comicat.org/",
-						"icon": "https://img.fre123.com/i/2023/12/14/6579d9c1844d0.jpg",
-						"description": "动画/漫画/游戏/动漫音乐/片源BT分享下载",
-						"is_show": true
-					},
-					{
-						"title": "airAnime",
-						"url": "https://air.tls.moe/#/home",
-						"icon": "https://img.fre123.com/i/2023/12/13/6579a8317c4a1.jpg",
-						"description": "轻量的聚合番剧搜索工具",
-						"is_show": true
-					},
-					{
-						"title": "萌番组",
-						"url": "https://bangumi.moe/",
-						"icon": "https://img.fre123.com/i/2023/12/13/6579a462818f1.jpg",
-						"description": "番剧种子资源下载网站",
-						"is_show": true
-					},
-					{
-						"title": "Browse :: Nyaa",
-						"url": "https://nyaa.si/",
-						"icon": "https://img.fre123.com/i/2023/12/13/65799e1f1ad15.png",
-						"description": "一个番剧下载资源网站",
-						"is_show": true
-					}
-				]
-			}
-		]
-	},
-	{
 		"group_name": "小说漫画",
 		"style": 1,
 		"style_des": "小说漫画",
@@ -1227,7 +1529,7 @@
 						"title": "漫自由",
 						"url": "https://mhx12.com/",
 						"icon": "https://img.fre123.com/i/2023/12/14/6579d8b1dce35.png",
-						"description": "一個由漫畫愛好者維護的分享平台,提供高清mobi,epub格式漫畫下載",
+						"description": "一个由漫画爱好者维护的分享平台,提供高清mobi,epub格式漫画下载",
 						"suffix": true,
 						"is_show": true
 					},
@@ -1555,6 +1857,7 @@
 
 						"is_show": true
 					},
+					
 					{
 						"title": "MacAPP 分享频道 🪜",
 						"url": "https://macapp.org.cn/",
