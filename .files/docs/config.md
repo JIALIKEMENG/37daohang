@@ -12,8 +12,8 @@
 | base.logo       | `String` | 网站 LOGO                                   | 无     | https://picshack.net/ib/lD7xUOrCIA.png                                                                                    |
 | seo             | `Object` | 网站 seo 相关信息                           | 无     | -                                                                                                                                           |
 | seo.title       | `String` | seo 标题                                    | 无     | 37uncle                                                                                                                                      |
-| seo.description | `String` | seo 描述                                    | 无     | FRE123 专注于为您提供各种免费优质资源，包括影视资源、动漫番剧、软件工具等。无论您在寻找哪种资源，我们都将尽力为您提供，为您的学习或工作助力 |
-| seo.keywords    | `String` | seo 关键词                                  | 无     | FRE123                                                                                                                                      |
+| seo.description | `String` | seo 描述                                    | 无     | 提供免费优质资源，为您的学习和工作助力 |
+| seo.keywords    | `String` | seo 关键词                                  | 无     | 37uncle                                                                                                                                      |
 | seo.icon        | `String` | seo 图标                                    | 无     | 37uncle                                                                                                                                 |
 | header.search   | `Object` | 头部搜索模块，详见下方 `header.search` 配置 | 无     |                                                                                                                                             |
 | header.right    | `Object` | 头部右侧模块,详见下方 `header.right` 配置   | 无     |                                                                                                                                             |
@@ -88,5 +88,5 @@
 | title       | `String`  | 标题     | 无     | 37uncle                                                                                                                                      |
 | url         | `String`  | 跳转地址 | 无     | https://www.fre123.com                                                                                                                      |
 | icon        | `String`  | 图标     | 无     | https://picshack.net/ib/lD7xUOrCIA.png                                                                                       |
-| description | `String`  | 描述     | 无     | FRE123 专注于为您提供各种免费优质资源，包括影视资源、动漫番剧、软件工具等。无论您在寻找哪种资源，我们都将尽力为您提供，为您的学习或工作助力 |
+| description | `String`  | 描述     | 无     | 提供免费优质资源，为您的学习和工作助力 |
 | is_show     | `Boolean` | 是否展示 | 无     | true                                                                                                                                        |
