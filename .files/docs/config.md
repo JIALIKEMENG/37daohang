@@ -7,14 +7,14 @@
 | 配置项          | 类型     | 说明                                        | 默认值 | 参数示例                                                                                                                                    |
 | --------------- | -------- | ------------------------------------------- | ------ | ------------------------------------------------------------------------------------------------------------------------------------------- |
 | base            | `Object` | 网站基础配置                                | 无     |                                                                                                                                             |
-| base.app_name   | `String` | 网站名称                                    | 无     | fre123                                                                                                                                      |
-| base.web_host   | `String` | 网站地址                                    | 无     | https://www.fre123.com                                                                                                                      |
-| base.logo       | `String` | 网站 LOGO                                   | 无     | https://img.fre123.com/i/2023/11/25/65619e8022505.png                                                                                       |
+| base.app_name   | `String` | 网站名称                                    | 无     | 37uncle                                                                                                                                      |
+| base.web_host   | `String` | 网站地址                                    | 无     | 37uncle.my-wan.de                                                                                                                        |
+| base.logo       | `String` | 网站 LOGO                                   | 无     | https://picshack.net/ib/lD7xUOrCIA.png                                                                                                  |
 | seo             | `Object` | 网站 seo 相关信息                           | 无     | -                                                                                                                                           |
-| seo.title       | `String` | seo 标题                                    | 无     | FRE123                                                                                                                                      |
-| seo.description | `String` | seo 描述                                    | 无     | FRE123 专注于为您提供各种免费优质资源，包括影视资源、动漫番剧、软件工具等。无论您在寻找哪种资源，我们都将尽力为您提供，为您的学习或工作助力 |
-| seo.keywords    | `String` | seo 关键词                                  | 无     | FRE123                                                                                                                                      |
-| seo.icon        | `String` | seo 图标                                    | 无     | https://www.fre123.com                                                                                                                      |
+| seo.title       | `String` | seo 标题                                    | 无     | 37uncle                                                                                                                                      |
+| seo.description | `String` | seo 描述                                    | 无     | 提供各种免费优质资源，为您的学习和工作助力 |
+| seo.keywords    | `String` | seo 关键词                                  | 无     | 37uncle                                                                                                                                     |
+| seo.icon        | `String` | seo 图标                                    | 无     | 37uncle.my-wan.de                                                                                                                        |
 | header.search   | `Object` | 头部搜索模块，详见下方 `header.search` 配置 | 无     |                                                                                                                                             |
 | header.right    | `Object` | 头部右侧模块,详见下方 `header.right` 配置   | 无     |                                                                                                                                             |
 | pendant         | `Object` | 右侧挂件配置,详见下方 `pendant` 配置        | 无     |                                                                                                                                             |
@@ -85,8 +85,8 @@
 
 | 配置项      | 类型      | 说明     | 默认值 | 参数示例                                                                                                                                    |
 | ----------- | --------- | -------- | ------ | ------------------------------------------------------------------------------------------------------------------------------------------- |
-| title       | `String`  | 标题     | 无     | FRE123                                                                                                                                      |
-| url         | `String`  | 跳转地址 | 无     | https://www.fre123.com                                                                                                                      |
-| icon        | `String`  | 图标     | 无     | https://img.fre123.com/i/2023/11/25/65619e8022505.png                                                                                       |
-| description | `String`  | 描述     | 无     | FRE123 专注于为您提供各种免费优质资源，包括影视资源、动漫番剧、软件工具等。无论您在寻找哪种资源，我们都将尽力为您提供，为您的学习或工作助力 |
+| title       | `String`  | 标题     | 无     | 37uncle                                                                                                                                      |
+| url         | `String`  | 跳转地址 | 无     | 37uncle.my-wan.de                                                                                                                      |
+| icon        | `String`  | 图标     | 无     | https://picshack.net/ib/lD7xUOrCIA.png                                                                                         |
+| description | `String`  | 描述     | 无     | 提供各种免费优质资源，为您的学习和工作助力 |
 | is_show     | `Boolean` | 是否展示 | 无     | true                                                                                                                                        |
