@@ -146,6 +146,7 @@
 						"url": "http://ilxdh.com/",
 						"description": "一个不错的导航",
 						"is_show": true
+					},
 					{
 						"title": "Tbox导航只收录优质在线工具的导航网站",
 						"url": "https://www.tboxn.com/",
@@ -240,7 +241,7 @@
 						"url": "https://www.naviai.cn/",
 						"description": "一个不错的AI导航",
 						"is_show": true
-
+                                        },
 					{
 						"title": "酷工具AI导航",
 						"url": "https://cooltools.top/ai.html",
