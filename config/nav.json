@@ -96,24 +96,28 @@
 					{
 						"title": "牛导航",
 						"url": "https://nav.6soluo.com/",
+						"icon": "https://nav.6soluo.com/wp-content/themes/webstackpro/images/favicon.png",
 						"description": "实用工具导航",
 						"is_show": true
 					},
 					{
 						"title": "大哈导航",
 						"url": "https://dh.sqst.xyz/",
+						"icon": "https://dh.sqst.xyz/wp-content/uploads/2022/04/%E5%9B%BE%E7%89%877-e1648880938247.png",
 						"description": "一个全能工具导航网站",
 						"is_show": true
 					},
 					{
 						"title": "工具大师导航",
 						"url": "https://gongjudashi.com/#/",
+                                                "icon": "https://gongjudashi.com/favicon.ico",						
 						"description": "收集常用工具网站",
 						"is_show": true
 					},
 					{
 						"title": "工具达人",
 						"url": "https://toolsdar.cn/",
+						"icon": "https://toolsdar.cn/favicon.ico",
 						"description": "实用工具分享",
 						"is_show": true
 					},
