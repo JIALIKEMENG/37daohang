@@ -110,7 +110,7 @@
 					{
 						"title": "工具大师导航",
 						"url": "https://gongjudashi.com/#/",
-                        "icon": "https://gongjudashi.com/favicon.ico",						
+                        "icon": "https://gongjudashi.com/favicon.ico",
 						"description": "收集常用工具网站",
 						"is_show": true
 					},
@@ -152,7 +152,7 @@
 					{
 						"title": "龙轩导航",
 						"url": "http://ilxdh.com/",
-						http://ilxdh.com/favicon.ico
+						"icon": "http://ilxdh.com/favicon.ico",
 						"description": "一个不错的导航",
 						"is_show": true
 					},
@@ -265,7 +265,7 @@
 						"icon": "https://www.naviai.cn/wp-content/uploads/2023/04/%E6%9C%AA%E5%91%BD%E5%90%8D%E7%9A%84%E8%AE%BE%E8%AE%A1-8.png",
 						"description": "一个不错的AI导航",
 						"is_show": true
-
+					},
 					{
 						"title": "酷工具AI导航",
 						"url": "https://cooltools.top/ai.html",
@@ -558,7 +558,7 @@
 					{
 						"title": "优翼100",
 						"url": "https://www.youyi100.com/",
-						https://yy.youyi800.com/wap/youyi100.ico
+						"icon": "https://yy.youyi800.com/wap/youyi100.ico",
 						"description": "多种教与学配套资源",
 						"is_show": true
 					},
@@ -688,7 +688,7 @@
 						"is_show": true
 					},
 					{
-						"title": "图形方格纸",
+						"title": "方格纸",
 						"url": "https://www.mygraphpaper.com/",
 						"icon": "https://besticon-demo.herokuapp.com/lettericons/M-120.png",
 						"description": "在线制作自己的方格笔记本",
@@ -1241,7 +1241,7 @@
 						"is_show": true
 					},
 					{
-						"title": "TIKTOK视频下载器
+						"title": "TIKTOK视频下载器",
 						"url": "https://tiker.cc/zh",
 						"icon": "https://tiker.cc/favicon.ico",
 						"description": "匿名查看和下载tiktok视频",
