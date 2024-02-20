@@ -110,7 +110,7 @@
 					{
 						"title": "工具大师导航",
 						"url": "https://gongjudashi.com/#/",
-                        "icon": "https://gongjudashi.com/favicon.ico",
+						 "icon": "https://gongjudashi.com/favicon.ico",
 						"description": "收集常用工具网站",
 						"is_show": true
 					},
